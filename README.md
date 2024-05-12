@@ -8,8 +8,6 @@ First, Install Bun Js in your local :
 npm install -g bun
 ```
 
-Bun Js: [https://bun.sh/docs/installation] (https://bun.sh/docs/installation)
-
 install pakage:
 
 ```bash
